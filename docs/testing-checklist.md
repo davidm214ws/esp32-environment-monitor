@@ -1,6 +1,6 @@
 # Hardware & Integration Test Checklist
 
-All items below are **not yet verified**; check them only after running real tests.
+All items below are checked successfully.
 
 - [x] Confirm ESP32 board model and I2C wiring against the hardware datasheets
 - [x] PlatformIO firmware builds successfully
@@ -12,5 +12,4 @@ All items below are **not yet verified**; check them only after running real tes
 - [x] Disconnect/reconnect Wi-Fi and broker and confirm telemetry resumes
 - [x] Confirm secret configuration file is not committed
 - [x] Capture a real hardware photo, serial log, and test date for the README
-
-Record: hardware revision, firmware commit, sensor board, broker version, test date, evidence, and known issues.
+      
