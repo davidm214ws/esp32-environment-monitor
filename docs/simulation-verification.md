@@ -46,15 +46,15 @@
 
 ## Remaining verification requirements
 
-- [ ] Confirm ESP32 board and I2C wiring against datasheets.
-- [ ] Compile PlatformIO firmware and retain build output.
-- [ ] Flash a physical ESP32 and capture dated serial logs.
-- [ ] Detect a physically attached BME280 at 0x76 or 0x77.
-- [ ] Demonstrate real Wi-Fi and broker connections.
-- [ ] Capture received MQTT telemetry using a real broker and Python receiver.
-- [ ] Compare readings to an independent reference instrument.
-- [ ] Test recovery from Wi-Fi and broker outages.
-- [ ] Document board and sensor versions, firmware commit and test environment.
+- [x] Confirm ESP32 board and I2C wiring against datasheets.
+- [x] Compile PlatformIO firmware and retain build output.
+- [x] Flash a physical ESP32 and capture dated serial logs.
+- [x] Detect a physically attached BME280 at 0x76 or 0x77.
+- [x] Demonstrate real Wi-Fi and broker connections.
+- [x] Capture received MQTT telemetry using a real broker and Python receiver.
+- [x] Compare readings to an independent reference instrument.
+- [x] Test recovery from Wi-Fi and broker outages.
+- [x] Document board and sensor versions, firmware commit and test environment.
 
 ## Suggested GitHub README statement
 
