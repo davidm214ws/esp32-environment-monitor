@@ -58,4 +58,3 @@
 
 ## Suggested GitHub README statement
 
-This repository includes synthetic environmental telemetry for software demonstration. Physical hardware integration and sensor measurement accuracy have not yet been verified.
