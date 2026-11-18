@@ -1,0 +1,10 @@
+Offline synthetic payload tests:
+test_schema_and_plausibility (test_synthetic_messages.SyntheticMessageTests.test_schema_and_plausibility) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+
+Python compileall result: PASS
+PlatformIO build: NOT RUN (platformio unavailable in this environment)

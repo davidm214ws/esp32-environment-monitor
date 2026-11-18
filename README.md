@@ -89,3 +89,13 @@ See [`docs/testing-checklist.md`](docs/testing-checklist.md). Add actual logs, h
 ## License
 
 MIT; see [`LICENSE`](LICENSE).
+
+
+## Portfolio demonstration assets
+
+- [ESP32 ↔ BME280 wiring guide](docs/demo-guide.md#wiring-reference)
+- [Synthetic dashboard preview](docs/demo-guide.md#simulated-dashboard-preview)
+- [Synthetic MQTT examples and local tests](docs/demo-guide.md#run-the-offline-demonstration)
+- [Verification status and pending hardware tests](docs/verification-report.md)
+
+**Evidence disclosure:** These demonstration readings and dashboard images are synthetic. No physical ESP32 or BME280 verification is claimed.

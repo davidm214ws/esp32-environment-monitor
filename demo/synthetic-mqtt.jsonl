@@ -1,0 +1,12 @@
+{"timestamp_demo_only": "10:00:00", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.42, "humidity_pct": 45.09, "pressure_hpa": 1013.08}}
+{"timestamp_demo_only": "10:00:10", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.4, "humidity_pct": 45.21, "pressure_hpa": 1013.11}}
+{"timestamp_demo_only": "10:00:20", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.52, "humidity_pct": 45.01, "pressure_hpa": 1013.07}}
+{"timestamp_demo_only": "10:00:30", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.45, "humidity_pct": 45.0, "pressure_hpa": 1013.06}}
+{"timestamp_demo_only": "10:00:40", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.48, "humidity_pct": 44.95, "pressure_hpa": 1013.07}}
+{"timestamp_demo_only": "10:00:50", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.58, "humidity_pct": 44.91, "pressure_hpa": 1013.05}}
+{"timestamp_demo_only": "10:01:00", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.65, "humidity_pct": 44.81, "pressure_hpa": 1013.06}}
+{"timestamp_demo_only": "10:01:10", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.67, "humidity_pct": 44.85, "pressure_hpa": 1012.98}}
+{"timestamp_demo_only": "10:01:20", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.73, "humidity_pct": 44.8, "pressure_hpa": 1012.96}}
+{"timestamp_demo_only": "10:01:30", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.67, "humidity_pct": 44.88, "pressure_hpa": 1013.0}}
+{"timestamp_demo_only": "10:01:40", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.79, "humidity_pct": 44.81, "pressure_hpa": 1012.98}}
+{"timestamp_demo_only": "10:01:50", "topic": "portfolio/esp32/environment", "payload": {"device_id": "esp32-env-01", "temperature_c": 23.84, "humidity_pct": 44.68, "pressure_hpa": 1012.97}}
